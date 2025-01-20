@@ -1,0 +1,23 @@
+[
+	{
+		"ID": 1,
+		"Description": "eat dinner",
+		"Status": "TODO",
+		"CreatedAt": "2025-01-20T12:07:08.693028+07:00",
+		"UpdatedAt": "2025-01-20T12:07:08.693028+07:00"
+	},
+	{
+		"ID": 2,
+		"Description": "eat lunch",
+		"Status": "DOING",
+		"CreatedAt": "2025-01-20T12:08:43.224496+07:00",
+		"UpdatedAt": "2025-01-20T12:08:43.224496+07:00"
+	},
+	{
+		"ID": 3,
+		"Description": "eat some snacks",
+		"Status": "DONE",
+		"CreatedAt": "2025-01-20T12:09:08.718929+07:00",
+		"UpdatedAt": "2025-01-20T15:58:19.971362+07:00"
+	}
+]
